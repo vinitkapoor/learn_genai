@@ -1,0 +1,2 @@
+# learn_genai
+genai
